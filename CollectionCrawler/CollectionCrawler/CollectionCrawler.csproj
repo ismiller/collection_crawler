@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>IsMiller.CollectionCrawler</AssemblyName>
+    <RootNamespace>IsMiller.CollectionCrawler</RootNamespace>
+    <PackageId>CollectionCrawler_I_S_Miller</PackageId>
+    <Authors>I.S.Miller</Authors>
+    <Product>IsMiller.CollectionCrawler</Product>
+    <PackageTags>collection, crawler, ismiller</PackageTags>
+    <Description>Extension for bi-directional collection traversal.</Description>
+  </PropertyGroup>
+</Project>
